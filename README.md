@@ -6,4 +6,4 @@ Assignment repository for UNT CSCE1015
 
 aom0065
 ## Favorite Professor
-$(Dr. Jacob)
+DR. Jacob
